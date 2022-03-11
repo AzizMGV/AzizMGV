@@ -9,7 +9,7 @@
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="https://www.linkedin.com/in/azizml/" target="blank"><img align="center" src="https://github.com/AzizMGV/CV/blob/main/Images/icons8-linkedin.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/azizml/" target="blank"><img align="center" src="https://github.com/AzizMGV/CV/blob/main/Images/icons8-linkedin-96.png" alt="BEPb" height="30" width="30" /></a>
 <a href="mailto:mceladio@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 <a href="https://t.me/azizsugd" alt="Connect on Telegram"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p>
