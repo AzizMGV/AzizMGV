@@ -7,11 +7,6 @@
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
 
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AzizMGV&hide_border=true&theme=redical)
-
-
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://www.linkedin.com/in/azizml/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
