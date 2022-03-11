@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=52FF00&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Azizdzhon+Amindzhanov;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
-## My achievements on [Kaggle](https://www.kaggle.com/azizdzhon):
-
-![competition_light](https://github.com/AzizMGV/CV/blob/main/Images/Competitions.png)
-
 
 Property | Data
 --- | --- 
@@ -17,6 +13,11 @@ Property | Data
 **Databases**  | <img src="https://camo.githubusercontent.com/c44ec7dbcddd4dea22204197ce11e45bea3ef03ff97e45294bf66ea793527706/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d626c7565" alt="SQL" data-canonical-src="https://img.shields.io/badge/-SQL-black?style=flat-square&amp;logo=postgresql&amp;logoColor=blue" style="max-width: 100%;">
 **CI / CD** | ![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)
 **Domain Knownledge**  | ![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white) ![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white) ![Electrical Engineering Development Badge](https://img.shields.io/badge/-Electrical%20Engineering-4C8CBF?style=flat&logoColor=white)![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)
+
+## My achievements on [Kaggle](https://www.kaggle.com/azizdzhon):
+
+![competition_light](https://github.com/AzizMGV/CV/blob/main/Images/Competitions.png)
+
 
 **📫 How to Reach me:**
 <p align="left">
