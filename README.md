@@ -14,11 +14,6 @@ Property | Data
 **CI / CD** | <img src="https://github.com/AzizMGV/CV/blob/main/Images/Git-Logo.png" alt="Git" height="50" width="120">  <img src="https://github.com/AzizMGV/CV/blob/main/Images/Docker.png" alt="Docker" height="50" width="58"> 
 
 
-## My achievements on [Kaggle](https://www.kaggle.com/azizdzhon):
-
-![competition_light](https://github.com/AzizMGV/CV/blob/main/Images/Competitions.png)
-
-
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://www.linkedin.com/in/azizml/" target="blank"><img align="center" src="https://github.com/AzizMGV/CV/blob/main/Images/Linkedin.png" alt="Linkedin" height="96" width="96" /></a>
