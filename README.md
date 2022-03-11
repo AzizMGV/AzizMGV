@@ -4,7 +4,7 @@
 
 ## My achievements on [Kaggle](https://www.kaggle.com/azizdzhon):
 
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
+![competition_light](https://github.com/AzizMGV/CV/blob/main/Images/Competitions.png)
 
 
 Property | Data
