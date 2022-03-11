@@ -11,12 +11,6 @@
 ### 📈 GitHub Activity Graph:
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AzizMGV&hide_border=true&theme=redical)
 
- . | .
---- | --- 
-![AzizMGV's github stats](https://github-readme-stats.vercel.app/api?username=AzizMGV&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizMGV&theme=radical&layout=compact)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
-
 
 **📫 How to Reach me:**
 <p align="left">
@@ -34,11 +28,3 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>
 </p>
 
-
----
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
----
-Would you ike to meet me?
-
-If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
-  
