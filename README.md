@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/azizml/" target="blank"><img align="center" src="https://github.com/AzizMGV/CV/blob/main/Images/Linkedin.png" alt="BEPb" height="96" width="96" /></a>
 <a href="mailto:mceladio@gmail.com" target="blank"><img align="center" src="https://github.com/AzizMGV/CV/blob/main/Images/Gmail.png" alt="Gmail" height="96" width="96" /></a>
-<a href="https://t.me/azizsugd" alt="Connect on Telegram"> <img src="https://github.com/AzizMGV/CV/blob/main/Images/Telegram.png" /> </a>
+<a href="https://t.me/azizsugd" target="blank"> <img align="center" src="https://github.com/AzizMGV/CV/blob/main/Images/Telegram.png" alt="Connect on Telegram" height="96" width="96"  /> </a>
 </p>
 
 
