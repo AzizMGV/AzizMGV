@@ -1,4 +1,4 @@
-![](https://github.com/AzizMGV/CV/blob/main/Images/fonGitHub.png)
+![](https://github.com/AzizMGV/CV/blob/main/Images/stackGitHub.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=52FF00&center=true&vCenter=true&width=550&lines=Hi+there!+👋+I'm+Azizdzhon+Amindzhanov;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
