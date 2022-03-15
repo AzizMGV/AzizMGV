@@ -1,6 +1,6 @@
 ![](https://github.com/AzizMGV/CV/blob/main/Images/stackGitHub.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFD1&center=true&vCenter=true&width=550&lines=Hi+there!+👋+I'm+Azizdzhon+Amindzhanov;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DD4814&center=true&vCenter=true&width=550&lines=Hi+there!+👋+I'm+Azizdzhon+Amindzhanov;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 
 Property | Data
