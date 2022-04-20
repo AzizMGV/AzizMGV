@@ -7,7 +7,7 @@
 
 Property | Data
 --- | --- 
-**Language / IDE**  | <img src="https://github.com/AzizMGV/CV/blob/main/Images/Python_logo.svg.png" alt="Python" height="50" width="168"> <img src="https://github.com/AzizMGV/CV/blob/main/Images/PyCharm_Icon.svg.png" alt="PyCharm" height="50" width="50">
+**Language / IDE**  | <img src="https://github.com/AzizMGV/AzizMGV/blob/main/Images/Pytorch_logo.png" alt="Python" height="50" width="168"> <img src="https://github.com/AzizMGV/CV/blob/main/Images/PyCharm_Icon.svg.png" alt="PyCharm" height="50" width="50">
 **OS**  |  <img src="https://github.com/AzizMGV/CV/blob/main/Images/Linux.svg.png" alt="Linux" height="60" width="50">  <img src="https://github.com/AzizMGV/CV/blob/main/Images/Ubuntu_logo.png" alt="Ubuntu" height="50" width="111"> 
 **Tools & Platform**  | <img src="https://github.com/AzizMGV/CV/blob/main/Images/Jupyter_logo.svg.png" alt="JupyterNotebook" height="57" width="50"> <img src="https://github.com/AzizMGV/CV/blob/main/Images/colab.png" alt="Google Colab" height="57" width="57"> 
 **Machine Learning**  | <img src="https://github.com/AzizMGV/CV/blob/main/Images/Pandas_logo.svg.png" alt="Pandas_logo" height="50" width="124"> <img src="https://github.com/AzizMGV/CV/blob/main/Images/NumPy_logo.svg.png" alt="NumPy_logo" height="50" width="124"> <img src="https://github.com/AzizMGV/CV/blob/main/Images/Matplotlib.svg" alt="Matplotlib" height="50" width="124"> <img src="https://github.com/AzizMGV/CV/blob/main/Images/scipy.png" alt="Scipy" height="50" width="124"> <img src="https://github.com/AzizMGV/CV/blob/main/Images/Scikit_learn_logo.svg.png" alt="Scikit_learn_logo" height="50" width="93"> 
