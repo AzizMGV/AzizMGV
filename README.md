@@ -15,7 +15,6 @@ Property | Data
 **Databases**  | <img src="https://github.com/AzizMGV/AzizMGV/blob/main/Images/SQL.png" alt="SQL" height="50" width="50"> <img src="https://github.com/AzizMGV/AzizMGV/blob/main/Images/PostgreSQL-Logo.png" alt="PostgreSQL" height="60" width="80"> <img src="https://github.com/AzizMGV/AzizMGV/blob/main/Images/ClickHouse.png" alt="ClickHouse" height="60" width="94"> 
 **CI / CD** | <img src="https://github.com/AzizMGV/AzizMGV/blob/main/Images/Git-Logo.png" alt="Git" height="50" width="120">  <img src="https://github.com/AzizMGV/AzizMGV/blob/main/Images/Docker.png" alt="Docker" height="50" width="58"> 
 
-<!--![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/azizdzhon/competitions)-->
 
 **📫 How to Reach me:**
 <p align="left">
@@ -25,7 +24,7 @@ Property | Data
 <a href="https://www.kaggle.com/azizdzhon" target="blank"> <img align="center" src="https://github.com/AzizMGV/AzizMGV/blob/main/Images/Kaggle_logo.png" alt="Kaggle" height="96" width="248"  /> </a>
 </p>
 
-
+![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/azizdzhon/competitions)
 
 ![Profile views](https://gpvc.arturio.dev/AzizMGV)
 
