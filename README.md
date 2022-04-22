@@ -1,8 +1,8 @@
 ![](https://github.com/AzizMGV/AzizMGV/blob/main/Images/stackGitHub.png)
 
-<div align="center">
+<!--<div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Hi+there!+👋+I'm+Aziz;Machine+Learning+Engineer;Welcome+to+My+Profile!;" alt="I'm Aziz, Machine Learning Engineer | Welcome to My Profile!"></a>
-</div>
+</div>-->
 
 
 Property | Data
