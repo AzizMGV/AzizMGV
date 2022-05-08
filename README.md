@@ -1,10 +1,10 @@
 <!--![](https://github.com/AzizMGV/AzizMGV/blob/main/Images/stackGitHub.png)-->
-![Profile views](https://gpvc.arturio.dev/AzizMGV)
-
 <p align="right">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=AzizMGV.AzizMGV" alt="visitors"/>
 </p>
-
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Hi+there!+👋+I'm+Aziz;Machine+Learning+Engineer;Welcome+to+My+Profile!;" alt="I'm Aziz, Machine Learning Engineer | Welcome to My Profile!"></a>
+</div>
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://www.linkedin.com/in/azizml/" target="blank"><img align="center" src="https://github.com/AzizMGV/AzizMGV/blob/main/Images/Linkedin.png" alt="Linkedin" height="96" width="96" /></a>
@@ -12,9 +12,7 @@
 <a href="mailto:mceladio@gmail.com" target="blank"><img align="center" src="https://github.com/AzizMGV/AzizMGV/blob/main/Images/Gmail.png" alt="Gmail" height="96" width="96" /></a>
 <a href="https://www.kaggle.com/azizdzhon" target="blank"> <img align="center" src="https://github.com/AzizMGV/AzizMGV/blob/main/Images/Kaggle_logo.png" alt="Kaggle" height="96" width="248"  /> </a>
 </p>
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Hi+there!+👋+I'm+Aziz;Machine+Learning+Engineer;Welcome+to+My+Profile!;" alt="I'm Aziz, Machine Learning Engineer | Welcome to My Profile!"></a>
-</div>
+
 
 
 Property | Data
