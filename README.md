@@ -28,6 +28,6 @@ Property | Data
 </p>
 
 ![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/azizdzhon/competitions)
-
+![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/azizdzhon/discussion)
 
 
